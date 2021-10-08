@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://karnagowda.github.io/project/division_labor/</loc>
+    <lastmod>2021-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://karnagowda.github.io/</loc>
+    <lastmod>2021-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://karnagowda.github.io/project/</loc>
+    <lastmod>2021-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://karnagowda.github.io/publication-type/2/</loc>
     <lastmod>2020-11-13T07:16:39-06:00</lastmod>
   </url><url>
@@ -23,9 +32,6 @@
     <loc>https://karnagowda.github.io/author/karna-gowda/</loc>
     <lastmod>2020-11-13T07:16:39-06:00</lastmod>
   </url><url>
-    <loc>https://karnagowda.github.io/</loc>
-    <lastmod>2020-11-13T07:16:39-06:00</lastmod>
-  </url><url>
     <loc>https://karnagowda.github.io/author/madhav-mani/</loc>
     <lastmod>2020-11-13T07:16:39-06:00</lastmod>
   </url><url>
@@ -37,6 +43,9 @@
   </url><url>
     <loc>https://karnagowda.github.io/author/seppe-kuehn/</loc>
     <lastmod>2020-11-13T07:16:39-06:00</lastmod>
+  </url><url>
+    <loc>https://karnagowda.github.io/project/structure_function/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://karnagowda.github.io/post/aps-2020-talk/</loc>
     <lastmod>2020-05-11T10:10:52-05:00</lastmod>
