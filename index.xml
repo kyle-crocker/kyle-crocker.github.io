@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karna Gowda</title>
+    <link>https://karnagowda.github.io/</link>
+      <atom:link href="https://karnagowda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karna Gowda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Karna Gowda</title>
+      <link>https://karnagowda.github.io/</link>
+    </image>
+    
+    <item>
+      <title>An ensemble approach to the structure-function problem in microbial communities</title>
+      <link>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
+      <link>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How constraints shape division of metabolic labor</title>
+      <link>https://karnagowda.github.io/project/division_labor/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/project/division_labor/</guid>
+      <description>&lt;p&gt;An essential property of microbial communities is that they distribute the burden of metabolic “labor” (i.e., the harvesting of available energy in an environment) over many species that take on distinct roles. A simple example of this phenomenon manifests in stepwise metabolic processes, wherein energy is incrementally harvested from a cascade of chemical conversions (e.g., denitrification). Often in these processes, we observe that metabolic labor can either be divided among species that perform individual steps, or monopolized by species that perform all steps, with the predominance of one strategy over another depending on the environmental context.&lt;/p&gt;
+&lt;p&gt;Metabolic constraints that impose tradeoffs on an organism’s ability to perform multiple steps may underlie whether the division of labor is favorable in a particular environment. A major gap in our knowledge is how environmental context influences metabolic constraints to determine when the division of labor is favored.&lt;/p&gt;
+&lt;p&gt;Postdoc Kyle Crocker and I are pursuing a statistical and experimental effort to learn how metabolic tradeoffs in bacterial denitrification are influenced by the chemical environment to determine when the division of metabolic labor is favored.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolution of generalists by phenotypic plasticity</title>
+      <link>https://karnagowda.github.io/publication/fraebel-evolution-2019/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/fraebel-evolution-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping structure and function in microbial communities</title>
+      <link>https://karnagowda.github.io/project/structure_function/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/project/structure_function/</guid>
+      <description>&lt;p&gt;The structure, or &amp;ldquo;parts list,&amp;rdquo; of microbial communities is composed of numerous diverse populations, each responding to different environmental cues, interacting with other populations, and shaping the chemical surroundings. Because of all these variables, it would appear that the relationship between community structure and collective metabolic function is hopelessly complex. But what if only a small amount of the community &amp;ldquo;parts list&amp;rdquo; were relevant to collective metabolic activity? Discovering what principles govern the mapping from the genomic structure to the metabolic activity of microbial communities would give us great insight into how communities organize, operate, and evolve.&lt;/p&gt;
+&lt;p&gt;In this project, we demonstrated that the metabolite dynamics of a microbial community can be predicted from a small number of genes each member of the community possesses. To do this, we developed an experimental and statistical approach that leveraged natural variation over a collection of diverse bacterial strains to map genotypes to community-level metabolic phenotypes. This work illustrates that key metabolic genes can be used to predict community-level behavior, which opens the door to predicting metabolic fluxes in natural environments from metagenomic sequencing, designing denitrifying bacterial communities for use in wastewater treatment, and discovering how genome evolution impacts metabolic phenotypes.&lt;/p&gt;
+&lt;p&gt;Related manuscript:&lt;br&gt;
+Genomic structure predicts metabolite dynamics in microbial communities&lt;br&gt;
+Karna Gowda, Derek Ping, Madhav Mani, and Seppe Kuehn&lt;br&gt;
+&lt;em&gt;Cell&lt;/em&gt; &lt;strong&gt;185&lt;/strong&gt;, (2022). doi: 
+&lt;a href=&#34;https://doi.org/10.1016/j.cell.2021.12.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cell.2021.12.036&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>APS 2020 online talk</title>
+      <link>https://karnagowda.github.io/post/aps-2020-talk/</link>
+      <pubDate>Mon, 11 May 2020 10:10:52 -0500</pubDate>
+      <guid>https://karnagowda.github.io/post/aps-2020-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of human impact on self-organized vegetation in the Horn of Africa</title>
+      <link>https://karnagowda.github.io/publication/gowda-signatures-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-signatures-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A topographic mechanism for arcing of dryland vegetation bands</title>
+      <link>https://karnagowda.github.io/publication/gandhi-topographic-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gandhi-topographic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the robustness of spatial pattern sequences in a dryland vegetation model</title>
+      <link>https://karnagowda.github.io/publication/gowda-assessing-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-assessing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-warning signs for pattern-formation in stochastic partial differential equations</title>
+      <link>https://karnagowda.github.io/publication/gowda-early-warning-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-early-warning-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions between patterned states in vegetation models for semiarid ecosystems</title>
+      <link>https://karnagowda.github.io/publication/gowda-transitions-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-transitions-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of Biological Systems virtual seminar series</title>
+      <link>https://karnagowda.github.io/biotheory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/biotheory/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://simfreed.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Freedman&lt;/a&gt;, 
+&lt;a href=&#34;https://www.madhavmani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Madhav Mani&lt;/a&gt;, and I are excited to announce a virtual seminar series entitled Theory of Biological Systems. Our goal in this series is to provide a platform for students and early career scientists to become educated on the latest research topics on the interface of biology, physics, and mathematics, and also to form cohesion between the disparate topics that our community studies.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://forms.gle/cJDkJdHwZYn8XeUY7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sign up here to stay informed about how to attend our virtual seminar!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Talks will take place every other Friday at 12:30pm &amp;ndash; 2:00pm Central Time (unless otherwise indicated), beginning in early November and continuing into the spring of 2022. Below is our exciting lineup of speakers for the coming months:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nov. 5th - 
+&lt;a href=&#34;https://www.brandeis.edu/physics/people/profiles/kondev-jane.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jane Kondev&lt;/a&gt;, Brandeis University. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=WrnIC-kR2hk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;How cells measure length&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Nov. 19th - 
+&lt;a href=&#34;http://sites.unice.fr/site/aseminara/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agnese Seminara&lt;/a&gt;, University of Genova. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=czFep7kntCo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Olfactory prediction and navigation&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Dec. 3rd - 
+&lt;a href=&#34;https://nemenmanlab.org/~ilya/index.php/Ilya_Nemenman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilya Nemenman&lt;/a&gt;, Emory University. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Uhc_OmTe1ms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Emergent dynamics in high throughut neural data&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Dec. 17th - 
+&lt;a href=&#34;http://shiladitya-banerjee.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiladitya Banerjee&lt;/a&gt;, Carnegie Mellon University. 
+&lt;a href=&#34;https://youtu.be/ke-5oRDX_QI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Morphology, growth and resource optimization in bacterial cells&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jan. 7th - 
+&lt;a href=&#34;https://www.utsouthwestern.edu/labs/lin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milo Lin&lt;/a&gt;, University of Texas Southwestern. 
+&lt;a href=&#34;https://youtu.be/DPNdisKv8yo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;More energy is different&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Jan. 21st @ 10:00am CT - 
+&lt;a href=&#34;https://www.phys.ens.fr/~awalczak/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aleksandra Walczak&lt;/a&gt;, Ecole Normale Supérieure. 
+&lt;a href=&#34;https://youtu.be/kvqdeazxqmc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Viral-host co-evolution&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;TBA - 
+&lt;a href=&#34;https://www.nitzanlab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mor Nitzan&lt;/a&gt;, The Hebrew University of Jerusalem&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;Feb. 18th - 
+&lt;a href=&#34;https://palmerlab.uchicago.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stephanie Palmer&lt;/a&gt;, The University of Chicago&lt;/li&gt;
+&lt;li&gt;Mar. 18th - 
+&lt;a href=&#34;https://web.sas.upenn.edu/katifori/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleni Katifori&lt;/a&gt;, University of Pennsylvania&lt;/li&gt;
+&lt;li&gt;Apr. 15th - 
+&lt;a href=&#34;https://www.peleglab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orit Peleg&lt;/a&gt;, University of Colorado Boulder&lt;/li&gt;
+&lt;li&gt;Apr. 29th - 
+&lt;a href=&#34;https://biophysics.princeton.edu/people/marianne-bauer-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marianne Bauer&lt;/a&gt;, Princeton University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition to showcasing cutting edge research, part of the emphasis of our series is to foster a conversation between speakers and the audience about topics of broad concern in the “Theory in Biology” community (e.g., where theorists could have the greatest impact, what are the big unsolved questions, and where may lay some research pitfalls).&lt;/p&gt;
+&lt;p&gt;We look forward to seeing you in our seminar series!&lt;/p&gt;
+&lt;p&gt;Anyone interested in related online talks and seminar series&#39; should check out the 
+&lt;a href=&#34;https://adras81.bitbucket.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Population Dynamics Seminars&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.youtube.com/c/EmoryTMLS/videos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emory TMLS series&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

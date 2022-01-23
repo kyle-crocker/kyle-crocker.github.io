@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Karna Gowda</title>
+    <link>https://karnagowda.github.io/project/</link>
+      <atom:link href="https://karnagowda.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://karnagowda.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>How constraints shape division of metabolic labor</title>
+      <link>https://karnagowda.github.io/project/division_labor/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/project/division_labor/</guid>
+      <description>&lt;p&gt;An essential property of microbial communities is that they distribute the burden of metabolic “labor” (i.e., the harvesting of available energy in an environment) over many species that take on distinct roles. A simple example of this phenomenon manifests in stepwise metabolic processes, wherein energy is incrementally harvested from a cascade of chemical conversions (e.g., denitrification). Often in these processes, we observe that metabolic labor can either be divided among species that perform individual steps, or monopolized by species that perform all steps, with the predominance of one strategy over another depending on the environmental context.&lt;/p&gt;
+&lt;p&gt;Metabolic constraints that impose tradeoffs on an organism’s ability to perform multiple steps may underlie whether the division of labor is favorable in a particular environment. A major gap in our knowledge is how environmental context influences metabolic constraints to determine when the division of labor is favored.&lt;/p&gt;
+&lt;p&gt;Postdoc Kyle Crocker and I are pursuing a statistical and experimental effort to learn how metabolic tradeoffs in bacterial denitrification are influenced by the chemical environment to determine when the division of metabolic labor is favored.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping structure and function in microbial communities</title>
+      <link>https://karnagowda.github.io/project/structure_function/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/project/structure_function/</guid>
+      <description>&lt;p&gt;The structure, or &amp;ldquo;parts list,&amp;rdquo; of microbial communities is composed of numerous diverse populations, each responding to different environmental cues, interacting with other populations, and shaping the chemical surroundings. Because of all these variables, it would appear that the relationship between community structure and collective metabolic function is hopelessly complex. But what if only a small amount of the community &amp;ldquo;parts list&amp;rdquo; were relevant to collective metabolic activity? Discovering what principles govern the mapping from the genomic structure to the metabolic activity of microbial communities would give us great insight into how communities organize, operate, and evolve.&lt;/p&gt;
+&lt;p&gt;In this project, we demonstrated that the metabolite dynamics of a microbial community can be predicted from a small number of genes each member of the community possesses. To do this, we developed an experimental and statistical approach that leveraged natural variation over a collection of diverse bacterial strains to map genotypes to community-level metabolic phenotypes. This work illustrates that key metabolic genes can be used to predict community-level behavior, which opens the door to predicting metabolic fluxes in natural environments from metagenomic sequencing, designing denitrifying bacterial communities for use in wastewater treatment, and discovering how genome evolution impacts metabolic phenotypes.&lt;/p&gt;
+&lt;p&gt;Related manuscript:&lt;br&gt;
+Genomic structure predicts metabolite dynamics in microbial communities&lt;br&gt;
+Karna Gowda, Derek Ping, Madhav Mani, and Seppe Kuehn&lt;br&gt;
+&lt;em&gt;Cell&lt;/em&gt; &lt;strong&gt;185&lt;/strong&gt;, (2022). doi: 
+&lt;a href=&#34;https://doi.org/10.1016/j.cell.2021.12.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cell.2021.12.036&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
