@@ -1,6 +1,6 @@
 hugo                               
-cd public
+# cd public
 git add .
 git commit -m "Build website"
-git push -f https://github.com/karnagowda/karnagowda.github.io master
+git push origin master
 cd ..
