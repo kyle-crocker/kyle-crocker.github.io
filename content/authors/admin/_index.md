@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Microbial communities perform feats of metabolic chemistry that sustain life from microscopic to global scales. Though it is clear that an individual organism’s metabolic capabilities control the conditions under which it can survive and thrive, we know little about how constraints imposed by physical and chemical limits on metabolism impact emergent community structure and behavior.
+Microbial communities perform feats of metabolic chemistry that sustain life from microscopic to global scales. Though it is clear that an individual organism’s metabolic capabilities control the conditions under which it can survive and thrive, we know little about how constraints imposed by physical and chemical limits on metabolism impact emergent community structure and behavior. 
 
 My work is about discovering the metabolic constraints underlying the structure and activity of microbial communities. To do this, I am developing a new approach that leverages natural variation across microbial communities to discover the metabolic constraints underlying their structure and activity, which will enable me to develop empirically-driven theories about how constraints shape communities.
 
