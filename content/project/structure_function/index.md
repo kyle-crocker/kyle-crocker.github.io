@@ -18,4 +18,4 @@ In this project, we demonstrated that the metabolite dynamics of a microbial com
 Related manuscript:  
 Genomic structure predicts metabolite dynamics in microbial communities  
 Karna Gowda, Derek Ping, Madhav Mani, and Seppe Kuehn  
-*Cell* **185**, (2022). doi: [10.1016/j.cell.2021.12.036](https://doi.org/10.1016/j.cell.2021.12.036)
+*Cell* **185**, (2022). doi: [10.1016/j.cell.2021.12.036](https://www.cell.com/cell/fulltext/S0092-8674(21)01542-7)
