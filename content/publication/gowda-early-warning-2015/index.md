@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2015-05-01'
-lastmod: 2022-01-28T10:52:54-06:00
+lastmod: 2022-01-31T10:49:18-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-28T16:52:54.808648Z'
+publishDate: '2022-01-31T16:49:18.152258Z'
 publication_types:
 - 2
 abstract: There have been signiﬁcant recent advances in our understanding of the potential

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2020-11-01'
-lastmod: 2022-01-28T10:52:54-06:00
+lastmod: 2022-01-31T10:49:18-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-28T16:52:54.655136Z'
+publishDate: '2022-01-31T16:49:18.005143Z'
 publication_types:
 - 2
 abstract: Summary Adapting organisms face a tension between specializing their phenotypes
