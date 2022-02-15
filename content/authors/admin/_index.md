@@ -89,11 +89,12 @@ In general terms, the questions I am asking are:
 I am currently Postdoctoral Scholar in the [Department of Ecology & Evolution](https://ecologyandevolution.uchicago.edu/) and [Center for Physics of Evolving Systems](https://news.uchicago.edu/story/eminent-bioengineering-scholar-lead-uchicagos-center-physics-evolving-systems). I am jointly mentored by [Seppe Kuehn](https://www.kuehnlab.org/) and [Madhav Mani](https://www.madhavmani.com/). I was a [James S. McDonnell Foundation Postdoctoral Fellow](https://www.jsmf.org/programs/cs/) from 2017-2020. Prior to that, I completed a PhD in Applied Mathematics with [Mary Silber](https://www.stat.uchicago.edu/~msilber/), where I worked on pattern formation and geospatial data analysis relating to dryland ecology.
 
 **UPDATES**
+- February 2022 - I'm now on [science Twitter](https://twitter.com/KarnaVGowda), along with the [Kuehn lab](https://twitter.com/SeppeKuehnLab)!
 - January 2022 - Very proud of our paper on [predicting community metabolism from gene content](https://authors.elsevier.com/c/1eVtGL7PXf0s3) in microbial communities, which is now in press *Cell*! You can read a great writeup about it by UChicago [here](https://biologicalsciences.uchicago.edu/news/genomic-structure-microbial-community-metabolism).
 - January 2022 - Our perspective piece on [the structure-function problem in microbial communities](https://doi.org/10.1016/j.isci.2022.103761) is in press at iScience.
 - November 2021 - Simon Freedman, Madhav Mani, and I are organizing a [virtual seminar series on theory in biology](https://karnagowda.github.io/biotheory/)!
 - August 2021 - Just got back from the wonderful, vibrant [KITP Program on the ecology and evolution of microbial communities](https://www.kitp.ucsb.edu/activities/ecoevo21)!
-- November 2020 - [Recent work on laboratory evolution experiments](https://www.sciencedirect.com/science/article/pii/S2589004220308701) with David Fraebel, Madhav Mani, and Seppe Kuehn is now in press at *iScience*.
-- August 2020 - Excited to join the Department of Ecology & Evolution and the Center for the Physics of Evolving Systems at U. Chicago!
+<!-- - November 2020 - [Recent work on laboratory evolution experiments](https://www.sciencedirect.com/science/article/pii/S2589004220308701) with David Fraebel, Madhav Mani, and Seppe Kuehn is now in press at *iScience*. -->
+<!-- - August 2020 - Excited to join the Department of Ecology & Evolution and the Center for the Physics of Evolving Systems at U. Chicago! -->
 <!-- - October 2020 - Very proud to share our [preprint on structure and function in microbial communities](https://doi.org/10.1101/2020.09.29.315713)! -->
 <!-- - March 2020 - [My virtual APS talk](http://meetings.aps.org/Meeting/MAR20/Session/F23.8) has been posted online! -->
