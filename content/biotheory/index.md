@@ -24,7 +24,7 @@ Talks will take place every other Friday at 12:30pm -- 2:00pm Central Time (unle
 * Jan. 21st @ 10:00am CT - [Aleksandra Walczak](https://www.phys.ens.fr/~awalczak/), Ecole Normale Supérieure. [*Viral-host co-evolution*](https://youtu.be/kvqdeazxqmc).
 * Feb. 18th - [Stephanie Palmer](https://palmerlab.uchicago.edu/), The University of Chicago. *How behavioral and evolutionary constraints sculpt early visual processing*.
 * Mar. 18th - [Eleni Katifori](https://web.sas.upenn.edu/katifori/), University of Pennsylvania
-* Mar. 28th - [Mor Nitzan](https://www.nitzanlab.com/), The Hebrew University of Jerusalem
+* Mar. 28th @ 9:00am CT - [Mor Nitzan](https://www.nitzanlab.com/), The Hebrew University of Jerusalem
 * Apr. 15th - [Orit Peleg](https://www.peleglab.com/), University of Colorado Boulder
 * Apr. 29th - [Marianne Bauer](https://biophysics.princeton.edu/people/marianne-bauer-0), Princeton University
 
