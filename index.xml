@@ -5,12 +5,33 @@
     <link>https://karnagowda.github.io/</link>
       <atom:link href="https://karnagowda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Karna Gowda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Karna Gowda</title>
       <link>https://karnagowda.github.io/</link>
     </image>
+    
+    <item>
+      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
+      <link>https://karnagowda.github.io/project/structure_function/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/project/structure_function/</guid>
+      <description>&lt;p&gt;The structure, or &amp;ldquo;parts list,&amp;rdquo; of microbial communities is composed of numerous diverse populations, each responding to different environmental cues, interacting with other populations, and shaping the chemical surroundings. Because of this complexity, it would appear that the relationship between community structure and collective metabolic function is hopelessly intractable. But what if only a small amount of the community &amp;ldquo;parts list&amp;rdquo; were relevant to collective metabolic activity? Discovering what principles govern the mapping from the genomic structure to the metabolic activity of microbial communities would give us great insight into how communities organize, operate, and evolve.&lt;/p&gt;
+&lt;p&gt;In this project, we demonstrated that the metabolite dynamics of a microbial community can be predicted from a small number of genes each member of the community possesses. To do this, we developed an experimental and statistical approach that leveraged natural variation over a collection of diverse bacterial strains to map genotypes to community-level metabolic phenotypes. This work illustrates that key metabolic genes can be used to predict community-level behavior, which opens the door to predicting metabolic fluxes in natural environments from metagenomic sequencing, designing denitrifying bacterial communities for use in wastewater treatment, and discovering how genome evolution impacts metabolic phenotypes.&lt;/p&gt;
+&lt;p&gt;Genomic structure predicts metabolite dynamics in microbial communities&lt;br&gt;
+Karna Gowda, Derek Ping, Madhav Mani, and Seppe Kuehn&lt;br&gt;
+&lt;em&gt;Cell&lt;/em&gt; &lt;strong&gt;185&lt;/strong&gt;, (2022). doi: 
+&lt;a href=&#34;https://doi.org/10.1016/j.cell.2021.12.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cell.2021.12.036&lt;/a&gt;. 
+&lt;a href=&#34;https://karnagowda.github.io/files/Gowda%20et%20al._2022_Cell.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Commentary:&lt;br&gt;
+Microbial communities: The metabolic rate is the trait&lt;br&gt;
+Avi Flamholz and Dianne Newman&lt;br&gt;
+&lt;em&gt;Current Biology&lt;/em&gt; &lt;strong&gt;32&lt;/strong&gt;. doi: 
+&lt;a href=&#34;https://doi.org/10.1016/j.cub.2022.02.002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cub.2022.02.002&lt;/a&gt;. 
+&lt;a href=&#34;https://karnagowda.github.io/files/Flamholz_Newman_2022_Current_Biology.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An ensemble approach to the structure-function problem in microbial communities</title>
@@ -45,27 +66,6 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://karnagowda.github.io/publication/fraebel-evolution-2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
-      <link>https://karnagowda.github.io/project/structure_function/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/project/structure_function/</guid>
-      <description>&lt;p&gt;The structure, or &amp;ldquo;parts list,&amp;rdquo; of microbial communities is composed of numerous diverse populations, each responding to different environmental cues, interacting with other populations, and shaping the chemical surroundings. Because of this complexity, it would appear that the relationship between community structure and collective metabolic function is hopelessly intractable. But what if only a small amount of the community &amp;ldquo;parts list&amp;rdquo; were relevant to collective metabolic activity? Discovering what principles govern the mapping from the genomic structure to the metabolic activity of microbial communities would give us great insight into how communities organize, operate, and evolve.&lt;/p&gt;
-&lt;p&gt;In this project, we demonstrated that the metabolite dynamics of a microbial community can be predicted from a small number of genes each member of the community possesses. To do this, we developed an experimental and statistical approach that leveraged natural variation over a collection of diverse bacterial strains to map genotypes to community-level metabolic phenotypes. This work illustrates that key metabolic genes can be used to predict community-level behavior, which opens the door to predicting metabolic fluxes in natural environments from metagenomic sequencing, designing denitrifying bacterial communities for use in wastewater treatment, and discovering how genome evolution impacts metabolic phenotypes.&lt;/p&gt;
-&lt;p&gt;Genomic structure predicts metabolite dynamics in microbial communities&lt;br&gt;
-Karna Gowda, Derek Ping, Madhav Mani, and Seppe Kuehn&lt;br&gt;
-&lt;em&gt;Cell&lt;/em&gt; &lt;strong&gt;185&lt;/strong&gt;, (2022). doi: 
-&lt;a href=&#34;https://doi.org/10.1016/j.cell.2021.12.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cell.2021.12.036&lt;/a&gt;. 
-&lt;a href=&#34;https://karnagowda.github.io/files/Gowda%20et%20al._2022_Cell.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Commentary:&lt;br&gt;
-Microbial communities: The metabolic rate is the trait&lt;br&gt;
-Avi Flamholz and Dianne Newman&lt;br&gt;
-&lt;em&gt;Current Biology&lt;/em&gt; &lt;strong&gt;32&lt;/strong&gt;. doi: 
-&lt;a href=&#34;https://doi.org/10.1016/j.cub.2022.02.002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cub.2022.02.002&lt;/a&gt;. 
-&lt;a href=&#34;https://karnagowda.github.io/files/Flamholz_Newman_2022_Current_Biology.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
