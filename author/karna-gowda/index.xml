@@ -5,12 +5,76 @@
     <link>https://karnagowda.github.io/author/karna-gowda/</link>
       <atom:link href="https://karnagowda.github.io/author/karna-gowda/index.xml" rel="self" type="application/rss+xml" />
     <description>Karna Gowda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Karna Gowda</title>
       <link>https://karnagowda.github.io/author/karna-gowda/</link>
     </image>
+    
+    <item>
+      <title>An ensemble approach to the structure-function problem in microbial communities</title>
+      <link>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
+      <link>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of generalists by phenotypic plasticity</title>
+      <link>https://karnagowda.github.io/publication/fraebel-evolution-2019/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/fraebel-evolution-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of human impact on self-organized vegetation in the Horn of Africa</title>
+      <link>https://karnagowda.github.io/publication/gowda-signatures-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-signatures-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A topographic mechanism for arcing of dryland vegetation bands</title>
+      <link>https://karnagowda.github.io/publication/gandhi-topographic-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gandhi-topographic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the robustness of spatial pattern sequences in a dryland vegetation model</title>
+      <link>https://karnagowda.github.io/publication/gowda-assessing-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-assessing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-warning signs for pattern-formation in stochastic partial differential equations</title>
+      <link>https://karnagowda.github.io/publication/gowda-early-warning-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-early-warning-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions between patterned states in vegetation models for semiarid ecosystems</title>
+      <link>https://karnagowda.github.io/publication/gowda-transitions-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-transitions-2014/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
