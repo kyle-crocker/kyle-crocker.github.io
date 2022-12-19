@@ -5,12 +5,20 @@
     <link>https://karnagowda.github.io/author/seppe-kuehn/</link>
       <atom:link href="https://karnagowda.github.io/author/seppe-kuehn/index.xml" rel="self" type="application/rss+xml" />
     <description>Seppe Kuehn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Seppe Kuehn</title>
       <link>https://karnagowda.github.io/author/seppe-kuehn/</link>
     </image>
+    
+    <item>
+      <title>Microbial biofilms: An ecological tale of Jekyll and Hyde</title>
+      <link>https://karnagowda.github.io/publication/gowda-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
