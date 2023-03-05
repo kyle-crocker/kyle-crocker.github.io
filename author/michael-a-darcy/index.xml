@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael A Darcy | Kyle Crocker</title>
+    <link>https://kyle-crocker.github.io/author/michael-a-darcy/</link>
+      <atom:link href="https://kyle-crocker.github.io/author/michael-a-darcy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael A Darcy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kyle-crocker.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael A Darcy</title>
+      <link>https://kyle-crocker.github.io/author/michael-a-darcy/</link>
+    </image>
+    
+    <item>
+      <title>A nanoscale DNA force spectrometer capable of applying tension and compression on biomolecules</title>
+      <link>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative modeling of nucleosome unwrapping from both ends</title>
+      <link>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

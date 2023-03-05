@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Karna Gowda</title>
-    <link>https://karnagowda.github.io/authors/</link>
-      <atom:link href="https://karnagowda.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Kyle Crocker</title>
+    <link>https://kyle-crocker.github.io/authors/</link>
+      <atom:link href="https://kyle-crocker.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kyle-crocker.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://karnagowda.github.io/authors/</link>
+      <link>https://kyle-crocker.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Kyle Crocker</title>
+      <link>https://kyle-crocker.github.io/author/kyle-crocker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/author/kyle-crocker/</guid>
+      <description>&lt;p&gt;Microbial communities drive global nutrient cycles, modulate plant growth, and&lt;/p&gt;
+&lt;p&gt;Microbial communities are complex and consequential metabolic factories, performing biochemistry that drives the global cycling of nutrients throughout the biosphere, and underlies interactions with humans, plants, and other hosts. Microbes carry out their critical work in the context of diverse ecological communities. Much like a factory production line, microbial communities divide the burden of metabolic “labor” over many species that take on different roles. Unlike the production line, however, the organization of microbial communities emerges from a complex interplay between ecological and evolutionary processes.&lt;/p&gt;
+&lt;p&gt;My research program is about discovering &lt;strong&gt;how nature builds its metabolic factories&lt;/strong&gt;, i.e., learning how constraints on metabolism and physiology give rise to the microbial communities we see in nature.&lt;/p&gt;
+&lt;!-- Microbial communities perform feats of metabolic chemistry that sustain life from microscopic to global scales. How do the parts of a community (e.g., the organisms that make up the community, along with their genes and metabolic capabilities) combine to make up the whole?
+
+In my work, I bring wild bacterial communities from natural environments into the laboratory, and perform high-throughput quantitative measurements to characterize their community metabolic behavior. I then use these experiments to identify statistical regularities that tell us about how communities operate in nature. A big part of this &#34;statistical ensembles&#34; approach is developing and refining statistical tools and mathematical models that identify the low-dimensional structure in high dimensional data.  --&gt;
+&lt;!-- I recently used this approach to [quantitatively map genomic structure and community metabolic function](#projects) for the process of denitrification, a key part of the global nitrogen cycle. --&gt;
+&lt;!-- I recently used this approach to &lt;a target=&#34;_self&#34; href=&#34;https://karnagowda.github.io/#projects&#34; &gt;quantitatively map genomic structure and community metabolic function&lt;/a&gt; for the process of denitrification, a key part of the global nitrogen cycle. --&gt;
+&lt;!--Life is biochemistry, and microbes are nature&#39;s premier biochemists, impacting all life from microscopic to global scales. A revolution in sequencing and computation has enabled us to observe the *who* (taxonomy) and the *what* (functional genomics) of natural microbial communities as never before. A major task that remains is to turn this wealth of information into predictive insights about how communities organize and operate, quantitatively and dynamically.
+
+In general terms, the questions I am asking are:
+- Given sequence data from a community (*structure*), how do we predict the biochemical fluxes of important metabolites (*function*) in that community?
+- How do we design communities with defined metabolic functions (i.e., specifying function from structure)?
+- How does community genomic structure depend on the biotic and abiotic environment? --&gt;
+&lt;p&gt;I am currently Postdoctoral Scholar in the 
+&lt;a href=&#34;https://ecologyandevolution.uchicago.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Ecology &amp;amp; Evolution&lt;/a&gt; and 
+&lt;a href=&#34;https://news.uchicago.edu/story/eminent-bioengineering-scholar-lead-uchicagos-center-physics-evolving-systems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Physics of Evolving Systems&lt;/a&gt;. I am advised by 
+&lt;a href=&#34;https://www.kuehnlab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seppe Kuehn&lt;/a&gt;. Before beginning as a postdoc, I completed a PhD in Physics with 
+&lt;a href=&#34;http://bioserv.mps.ohio-state.edu/~rbund/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ralf Bundschuh&lt;/a&gt;, where I used statistical physics to build computational models of DNA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATES&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;March 2023: Check out 
+&lt;a href=&#34;https://march.aps.org/sessions/K08/2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my talk&lt;/a&gt; at APS!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

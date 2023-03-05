@@ -1,86 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Karna Gowda</title>
-    <link>https://karnagowda.github.io/publication/</link>
-      <atom:link href="https://karnagowda.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Kyle Crocker</title>
+    <link>https://kyle-crocker.github.io/publication/</link>
+      <atom:link href="https://kyle-crocker.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kyle-crocker.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://karnagowda.github.io/publication/</link>
+      <link>https://kyle-crocker.github.io/publication/</link>
     </image>
     
     <item>
-      <title>Microbial biofilms: An ecological tale of Jekyll and Hyde</title>
-      <link>https://karnagowda.github.io/publication/gowda-2022/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
-      <link>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An ensemble approach to the structure-function problem in microbial communities</title>
-      <link>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</link>
+      <title>High-force application by a nanoscale DNA force spectrometer</title>
+      <link>https://kyle-crocker.github.io/publication/darcy-2022-high/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</guid>
+      <guid>https://kyle-crocker.github.io/publication/darcy-2022-high/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evolution of generalists by phenotypic plasticity</title>
-      <link>https://karnagowda.github.io/publication/fraebel-evolution-2019/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/fraebel-evolution-2019/</guid>
+      <title>A nanoscale DNA force spectrometer capable of applying tension and compression on biomolecules</title>
+      <link>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Signatures of human impact on self-organized vegetation in the Horn of Africa</title>
-      <link>https://karnagowda.github.io/publication/gowda-signatures-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-signatures-2018/</guid>
+      <title>A quantitative model for a nanoscale switch accurately predicts thermal actuation behavior</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2021-quantitative/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2021-quantitative/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A topographic mechanism for arcing of dryland vegetation bands</title>
-      <link>https://karnagowda.github.io/publication/gandhi-topographic-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gandhi-topographic-2018/</guid>
+      <title>Evolutionary advantage of a dissociative search mechanism in DNA mismatch repair</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2021-evolutionary/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2021-evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Assessing the robustness of spatial pattern sequences in a dryland vegetation model</title>
-      <link>https://karnagowda.github.io/publication/gowda-assessing-2016/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-assessing-2016/</guid>
+      <title>Quantitative modeling of nucleosome unwrapping from both ends</title>
+      <link>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Early-warning signs for pattern-formation in stochastic partial differential equations</title>
-      <link>https://karnagowda.github.io/publication/gowda-early-warning-2015/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-early-warning-2015/</guid>
+      <title>Systematic study of the stochastic gravitational-wave background due to stellar core collapse</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2017-systematic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2017-systematic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transitions between patterned states in vegetation models for semiarid ecosystems</title>
-      <link>https://karnagowda.github.io/publication/gowda-transitions-2014/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-transitions-2014/</guid>
+      <title>Model of the stochastic gravitational-wave background due to core collapse to black holes</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2015-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2015-model/</guid>
       <description></description>
     </item>
     

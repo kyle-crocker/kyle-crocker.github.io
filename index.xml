@@ -1,134 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Karna Gowda</title>
-    <link>https://karnagowda.github.io/</link>
-      <atom:link href="https://karnagowda.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Karna Gowda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <title>Kyle Crocker</title>
+    <link>https://kyle-crocker.github.io/</link>
+      <atom:link href="https://kyle-crocker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle Crocker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Karna Gowda</title>
-      <link>https://karnagowda.github.io/</link>
+      <url>https://kyle-crocker.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kyle Crocker</title>
+      <link>https://kyle-crocker.github.io/</link>
     </image>
     
     <item>
-      <title>Microbial biofilms: An ecological tale of Jekyll and Hyde</title>
-      <link>https://karnagowda.github.io/publication/gowda-2022/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
-      <link>https://karnagowda.github.io/project/structure_function/</link>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/project/structure_function/</guid>
-      <description>&lt;p&gt;The structure, or &amp;ldquo;parts list,&amp;rdquo; of microbial communities is composed of numerous diverse populations, each responding to different environmental cues, interacting with other populations, and shaping the chemical surroundings. Because of this complexity, it would appear that the relationship between community structure and collective metabolic function is hopelessly intractable. But what if only a small amount of the community &amp;ldquo;parts list&amp;rdquo; were relevant to collective metabolic activity? Discovering what principles govern the mapping from the genomic structure to the metabolic activity of microbial communities would give us great insight into how communities organize, operate, and evolve.&lt;/p&gt;
-&lt;p&gt;In this project, we demonstrated that the metabolite dynamics of a microbial community can be predicted from a small number of genes each member of the community possesses. To do this, we developed an experimental and statistical approach that leveraged natural variation over a collection of diverse bacterial strains to map genotypes to community-level metabolic phenotypes. This work illustrates that key metabolic genes can be used to predict community-level behavior, which opens the door to predicting metabolic fluxes in natural environments from metagenomic sequencing, designing denitrifying bacterial communities for use in wastewater treatment, and discovering how genome evolution impacts metabolic phenotypes.&lt;/p&gt;
-&lt;p&gt;Genomic structure predicts metabolite dynamics in microbial communities&lt;br&gt;
-Karna Gowda, Derek Ping, Madhav Mani, and Seppe Kuehn&lt;br&gt;
-&lt;em&gt;Cell&lt;/em&gt; &lt;strong&gt;185&lt;/strong&gt;, (2022). doi: 
-&lt;a href=&#34;https://doi.org/10.1016/j.cell.2021.12.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cell.2021.12.036&lt;/a&gt;. 
-&lt;a href=&#34;https://karnagowda.github.io/files/Gowda%20et%20al._2022_Cell.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Commentary:&lt;br&gt;
-Microbial communities: The metabolic rate is the trait&lt;br&gt;
-Avi Flamholz and Dianne Newman&lt;br&gt;
-&lt;em&gt;Current Biology&lt;/em&gt; &lt;strong&gt;32&lt;/strong&gt;. doi: 
-&lt;a href=&#34;https://doi.org/10.1016/j.cub.2022.02.002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cub.2022.02.002&lt;/a&gt;. 
-&lt;a href=&#34;https://karnagowda.github.io/files/Flamholz_Newman_2022_Current_Biology.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+      <title>Global patterns emerge from microbial interactions</title>
+      <link>https://kyle-crocker.github.io/project/env_filtering/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/project/env_filtering/</guid>
+      <description>&lt;p&gt;Recent sequencing surveys have revealed that global relationships between microbiome structure (taxonomy and gene content) and environmental factors (temperature, pH, nutrient availability, etc.) are ubiquitous. To explain these relationships, the concept of environmental filtering &amp;ndash; that the environment &amp;ldquo;filters&amp;rdquo; the microbial community based upon which microbes are best adapted to a given environment &amp;ndash; is often invoked. While environmental filtering provides a natural explanation for the global conservation of these environment-structure relationships (if the microbes present in an environment depend solely on that environment, the relationship should be highly conserved), it is difficult to reconcile with the extensive and well-documented impact of &lt;i&gt;microbial interactions&lt;/i&gt; on microbiome content.&lt;/p&gt;
+&lt;p&gt;To resolve this paradox, I use a combination of statistics, experiments, and theory to understand the origin of global patterns in microbiome content. I first analyze a topsoil microbiome dataset (Bahram et al., 2018) and identify a relationship between genotype and pH. Next, I bring natural soil communities into the lab and show that this relationship can be recapitulated experimentally.  Finally, I isolate the microbes driving this relationship and perform detailed experiments on these isolates. I show that, rather than arising from simple adaptation of microbe to environment, the pH-genotype relationship is dependent on interactions between microbes. In particular, community interactions that alleviate toxicity emerge in acidic environments. These interactions, therefore, &lt;i&gt;are themselves modulated by the environment&lt;/i&gt;. This results in interactions that are conserved in similar environments, giving rise to the observed global patterns.&lt;/p&gt;
+&lt;p&gt;This work was carried out in collaboration with fellow postdoc Karna Gowda and graduate student Milena Chakraverti-Wuerthwein, and was advised by Profs. Seppe Kuehn and Madhav Mani.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
-      <link>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An ensemble approach to the structure-function problem in microbial communities</title>
-      <link>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</link>
+      <title>High-force application by a nanoscale DNA force spectrometer</title>
+      <link>https://kyle-crocker.github.io/publication/darcy-2022-high/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</guid>
+      <guid>https://kyle-crocker.github.io/publication/darcy-2022-high/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How constraints shape division of metabolic labor</title>
-      <link>https://karnagowda.github.io/project/division_labor/</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/project/division_labor/</guid>
-      <description>&lt;p&gt;An essential property of microbial communities is that they distribute the burden of metabolic “labor” (i.e., the harvesting of available energy in an environment) over many species that take on distinct roles. A simple example of this phenomenon manifests in stepwise metabolic processes, wherein energy is incrementally harvested from a cascade of chemical conversions (e.g., denitrification). Often in these processes, we observe that metabolic labor can either be divided among species that perform individual steps, or monopolized by species that perform all steps, with the predominance of one strategy over another depending on the environmental context.&lt;/p&gt;
-&lt;p&gt;Metabolic constraints that impose tradeoffs on an organism’s ability to perform multiple steps may underlie whether the division of labor is favorable in a particular environment. A major gap in our knowledge is how environmental context influences metabolic constraints to determine when the division of labor is favored.&lt;/p&gt;
-&lt;p&gt;Postdoc Kyle Crocker and I are pursuing a statistical and experimental effort to learn how metabolic tradeoffs in bacterial denitrification are influenced by the chemical environment to determine when the division of metabolic labor is favored.&lt;/p&gt;
-</description>
+      <title>A nanoscale DNA force spectrometer capable of applying tension and compression on biomolecules</title>
+      <link>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Evolution of generalists by phenotypic plasticity</title>
-      <link>https://karnagowda.github.io/publication/fraebel-evolution-2019/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/fraebel-evolution-2019/</guid>
+      <title>A quantitative model for a nanoscale switch accurately predicts thermal actuation behavior</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2021-quantitative/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2021-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary advantage of a dissociative search mechanism in DNA mismatch repair</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2021-evolutionary/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2021-evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APS 2020 online talk</title>
-      <link>https://karnagowda.github.io/post/aps-2020-talk/</link>
+      <link>https://kyle-crocker.github.io/post/aps-2020-talk/</link>
       <pubDate>Mon, 11 May 2020 10:10:52 -0500</pubDate>
-      <guid>https://karnagowda.github.io/post/aps-2020-talk/</guid>
+      <guid>https://kyle-crocker.github.io/post/aps-2020-talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Signatures of human impact on self-organized vegetation in the Horn of Africa</title>
-      <link>https://karnagowda.github.io/publication/gowda-signatures-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-signatures-2018/</guid>
+      <title>Quantitative modeling of nucleosome unwrapping from both ends</title>
+      <link>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A topographic mechanism for arcing of dryland vegetation bands</title>
-      <link>https://karnagowda.github.io/publication/gandhi-topographic-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gandhi-topographic-2018/</guid>
+      <title>Systematic study of the stochastic gravitational-wave background due to stellar core collapse</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2017-systematic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2017-systematic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Assessing the robustness of spatial pattern sequences in a dryland vegetation model</title>
-      <link>https://karnagowda.github.io/publication/gowda-assessing-2016/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-assessing-2016/</guid>
+      <title>Model of the stochastic gravitational-wave background due to core collapse to black holes</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2015-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2015-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Early-warning signs for pattern-formation in stochastic partial differential equations</title>
-      <link>https://karnagowda.github.io/publication/gowda-early-warning-2015/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-early-warning-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transitions between patterned states in vegetation models for semiarid ecosystems</title>
-      <link>https://karnagowda.github.io/publication/gowda-transitions-2014/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-transitions-2014/</guid>
-      <description></description>
+      <title>Kyle Crocker</title>
+      <link>https://kyle-crocker.github.io/author/kyle-crocker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/author/kyle-crocker/</guid>
+      <description>&lt;p&gt;Microbial communities drive global nutrient cycles, modulate plant growth, and&lt;/p&gt;
+&lt;p&gt;Microbial communities are complex and consequential metabolic factories, performing biochemistry that drives the global cycling of nutrients throughout the biosphere, and underlies interactions with humans, plants, and other hosts. Microbes carry out their critical work in the context of diverse ecological communities. Much like a factory production line, microbial communities divide the burden of metabolic “labor” over many species that take on different roles. Unlike the production line, however, the organization of microbial communities emerges from a complex interplay between ecological and evolutionary processes.&lt;/p&gt;
+&lt;p&gt;My research program is about discovering &lt;strong&gt;how nature builds its metabolic factories&lt;/strong&gt;, i.e., learning how constraints on metabolism and physiology give rise to the microbial communities we see in nature.&lt;/p&gt;
+&lt;!-- Microbial communities perform feats of metabolic chemistry that sustain life from microscopic to global scales. How do the parts of a community (e.g., the organisms that make up the community, along with their genes and metabolic capabilities) combine to make up the whole?
+
+In my work, I bring wild bacterial communities from natural environments into the laboratory, and perform high-throughput quantitative measurements to characterize their community metabolic behavior. I then use these experiments to identify statistical regularities that tell us about how communities operate in nature. A big part of this &#34;statistical ensembles&#34; approach is developing and refining statistical tools and mathematical models that identify the low-dimensional structure in high dimensional data.  --&gt;
+&lt;!-- I recently used this approach to [quantitatively map genomic structure and community metabolic function](#projects) for the process of denitrification, a key part of the global nitrogen cycle. --&gt;
+&lt;!-- I recently used this approach to &lt;a target=&#34;_self&#34; href=&#34;https://karnagowda.github.io/#projects&#34; &gt;quantitatively map genomic structure and community metabolic function&lt;/a&gt; for the process of denitrification, a key part of the global nitrogen cycle. --&gt;
+&lt;!--Life is biochemistry, and microbes are nature&#39;s premier biochemists, impacting all life from microscopic to global scales. A revolution in sequencing and computation has enabled us to observe the *who* (taxonomy) and the *what* (functional genomics) of natural microbial communities as never before. A major task that remains is to turn this wealth of information into predictive insights about how communities organize and operate, quantitatively and dynamically.
+
+In general terms, the questions I am asking are:
+- Given sequence data from a community (*structure*), how do we predict the biochemical fluxes of important metabolites (*function*) in that community?
+- How do we design communities with defined metabolic functions (i.e., specifying function from structure)?
+- How does community genomic structure depend on the biotic and abiotic environment? --&gt;
+&lt;p&gt;I am currently Postdoctoral Scholar in the 
+&lt;a href=&#34;https://ecologyandevolution.uchicago.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Ecology &amp;amp; Evolution&lt;/a&gt; and 
+&lt;a href=&#34;https://news.uchicago.edu/story/eminent-bioengineering-scholar-lead-uchicagos-center-physics-evolving-systems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Physics of Evolving Systems&lt;/a&gt;. I am advised by 
+&lt;a href=&#34;https://www.kuehnlab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seppe Kuehn&lt;/a&gt;. Before beginning as a postdoc, I completed a PhD in Physics with 
+&lt;a href=&#34;http://bioserv.mps.ohio-state.edu/~rbund/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ralf Bundschuh&lt;/a&gt;, where I used statistical physics to build computational models of DNA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATES&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;March 2023: Check out 
+&lt;a href=&#34;https://march.aps.org/sessions/K08/2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my talk&lt;/a&gt; at APS!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Theory of Biological Systems virtual seminar series</title>
-      <link>https://karnagowda.github.io/biotheory/</link>
+      <link>https://kyle-crocker.github.io/biotheory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/biotheory/</guid>
+      <guid>https://kyle-crocker.github.io/biotheory/</guid>
       <description>&lt;p&gt;Update: We have concluded the seminar series for the academic year. You can 
 &lt;a href=&#34;https://forms.gle/cJDkJdHwZYn8XeUY7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up here to be informed about future seminars&lt;/a&gt;, and find recordings of this year&amp;rsquo;s talks below!&lt;/p&gt;
 &lt;p&gt;Below you can find recordings for our &amp;lsquo;21-&amp;lsquo;22 Theory of Biological Systems seminars:&lt;/p&gt;

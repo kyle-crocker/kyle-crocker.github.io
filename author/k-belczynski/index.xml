@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Belczynski | Kyle Crocker</title>
+    <link>https://kyle-crocker.github.io/author/k-belczynski/</link>
+      <atom:link href="https://kyle-crocker.github.io/author/k-belczynski/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Belczynski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kyle-crocker.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>K Belczynski</title>
+      <link>https://kyle-crocker.github.io/author/k-belczynski/</link>
+    </image>
+    
+    <item>
+      <title>Model of the stochastic gravitational-wave background due to core collapse to black holes</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2015-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2015-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
