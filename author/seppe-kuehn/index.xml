@@ -1,46 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Seppe Kuehn | Karna Gowda</title>
-    <link>https://karnagowda.github.io/author/seppe-kuehn/</link>
-      <atom:link href="https://karnagowda.github.io/author/seppe-kuehn/index.xml" rel="self" type="application/rss+xml" />
+    <title>Seppe Kuehn | Kyle Crocker</title>
+    <link>https://kyle-crocker.github.io/author/seppe-kuehn/</link>
+      <atom:link href="https://kyle-crocker.github.io/author/seppe-kuehn/index.xml" rel="self" type="application/rss+xml" />
     <description>Seppe Kuehn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kyle-crocker.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Seppe Kuehn</title>
-      <link>https://karnagowda.github.io/author/seppe-kuehn/</link>
+      <link>https://kyle-crocker.github.io/author/seppe-kuehn/</link>
     </image>
     
     <item>
-      <title>Microbial biofilms: An ecological tale of Jekyll and Hyde</title>
-      <link>https://karnagowda.github.io/publication/gowda-2022/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomic structure predicts metabolite dynamics in microbial communities</title>
-      <link>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gowda-2020-09-29-315713/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An ensemble approach to the structure-function problem in microbial communities</title>
-      <link>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/gopalakrishnappa-2022103761/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution of generalists by phenotypic plasticity</title>
-      <link>https://karnagowda.github.io/publication/fraebel-evolution-2019/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://karnagowda.github.io/publication/fraebel-evolution-2019/</guid>
+      <title>Genomic patterns in the global soil microbiome emerge from microbial interactions</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2023-genomic/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2023-genomic/</guid>
       <description></description>
     </item>
     
