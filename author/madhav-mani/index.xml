@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madhav Mani | Crocker Lab</title>
+    <link>https://kyle-crocker.github.io/author/madhav-mani/</link>
+      <atom:link href="https://kyle-crocker.github.io/author/madhav-mani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Madhav Mani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kyle-crocker.github.io/images/icon_hu_e747e089a9e68c83.png</url>
+      <title>Madhav Mani</title>
+      <link>https://kyle-crocker.github.io/author/madhav-mani/</link>
+    </image>
+    
+    <item>
+      <title>Functional regimes define soil microbiome response to environmental change</title>
+      <link>https://kyle-crocker.github.io/publication/lee-2025-functional/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/lee-2025-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmentally dependent interactions shape patterns in gene content across natural microbiomes</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2024-environmentally/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2024-environmentally/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

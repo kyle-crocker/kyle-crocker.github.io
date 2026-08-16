@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Host-Microbiome | Crocker Lab</title>
+    <link>https://kyle-crocker.github.io/tag/host-microbiome/</link>
+      <atom:link href="https://kyle-crocker.github.io/tag/host-microbiome/index.xml" rel="self" type="application/rss+xml" />
+    <description>Host-Microbiome</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kyle-crocker.github.io/images/icon_hu_e747e089a9e68c83.png</url>
+      <title>Host-Microbiome</title>
+      <link>https://kyle-crocker.github.io/tag/host-microbiome/</link>
+    </image>
+    
+    <item>
+      <title>Pitcher plant colonization dynamics</title>
+      <link>https://kyle-crocker.github.io/project/hm-placeholder-2/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/project/hm-placeholder-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guild competition in the cow rumen microbiome</title>
+      <link>https://kyle-crocker.github.io/project/hm-placeholder-1/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/project/hm-placeholder-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

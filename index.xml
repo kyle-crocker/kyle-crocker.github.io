@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crocker Lab</title>
+    <link>https://kyle-crocker.github.io/</link>
+      <atom:link href="https://kyle-crocker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crocker Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kyle-crocker.github.io/images/icon_hu_e747e089a9e68c83.png</url>
+      <title>Crocker Lab</title>
+      <link>https://kyle-crocker.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Pitcher plant colonization dynamics</title>
+      <link>https://kyle-crocker.github.io/project/hm-placeholder-2/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/project/hm-placeholder-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guild competition in the cow rumen microbiome</title>
+      <link>https://kyle-crocker.github.io/project/hm-placeholder-1/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/project/hm-placeholder-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers of successional dynamics in soil wet-dry cycles</title>
+      <link>https://kyle-crocker.github.io/project/ff-placeholder-1/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/project/ff-placeholder-1/</guid>
+      <description>&lt;p&gt;This is placeholder sub-project 1 under the &lt;em&gt;Low-dimensional feast and famine dynamics&lt;/em&gt; research direction. Replace with a real project description.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional regimes define soil microbiome response to environmental change</title>
+      <link>https://kyle-crocker.github.io/publication/lee-2025-functional/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/lee-2025-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring resource competition in microbial communities from time series</title>
+      <link>https://kyle-crocker.github.io/publication/chen-2025-inferring/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/chen-2025-inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timescale of environmental change modulates metabolic guild cohesion in microbial communities</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2025-timescale/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2025-timescale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmentally dependent interactions shape patterns in gene content across natural microbiomes</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2024-environmentally/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2024-environmentally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-force application by a nanoscale DNA force spectrometer</title>
+      <link>https://kyle-crocker.github.io/publication/darcy-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/darcy-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nanoscale DNA force spectrometer capable of applying tension and compression on biomolecules</title>
+      <link>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/wang-2021-nanoscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantitative model for a nanoscale switch accurately predicts thermal actuation behavior</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2021-quantitative/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2021-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary advantage of a dissociative search mechanism in DNA mismatch repair</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2021-evolutionary/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2021-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APS 2020 online talk</title>
+      <link>https://kyle-crocker.github.io/post/aps-2020-talk/</link>
+      <pubDate>Mon, 11 May 2020 10:10:52 -0500</pubDate>
+      <guid>https://kyle-crocker.github.io/post/aps-2020-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative modeling of nucleosome unwrapping from both ends</title>
+      <link>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/zhao-2019-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic study of the stochastic gravitational-wave background due to stellar core collapse</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2017-systematic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2017-systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model of the stochastic gravitational-wave background due to core collapse to black holes</title>
+      <link>https://kyle-crocker.github.io/publication/crocker-2015-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/publication/crocker-2015-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Crocker</title>
+      <link>https://kyle-crocker.github.io/author/kyle-crocker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/author/kyle-crocker/</guid>
+      <description>&lt;p&gt;Microbial communities drive global nutrient cycles, modulate plant growth, and&lt;/p&gt;
+&lt;p&gt;Microbial communities are complex and consequential metabolic factories, performing biochemistry that drives the global cycling of nutrients throughout the biosphere, and underlies interactions with humans, plants, and other hosts. Microbes carry out their critical work in the context of diverse ecological communities. Much like a factory production line, microbial communities divide the burden of metabolic “labor” over many species that take on different roles. Unlike the production line, however, the organization of microbial communities emerges from a complex interplay between ecological and evolutionary processes.&lt;/p&gt;
+&lt;p&gt;My research program is about discovering &lt;strong&gt;how nature builds its metabolic factories&lt;/strong&gt;, i.e., learning how constraints on metabolism and physiology give rise to the microbial communities we see in nature.&lt;/p&gt;
+&lt;!-- Microbial communities perform feats of metabolic chemistry that sustain life from microscopic to global scales. How do the parts of a community (e.g., the organisms that make up the community, along with their genes and metabolic capabilities) combine to make up the whole?
+
+In my work, I bring wild bacterial communities from natural environments into the laboratory, and perform high-throughput quantitative measurements to characterize their community metabolic behavior. I then use these experiments to identify statistical regularities that tell us about how communities operate in nature. A big part of this &#34;statistical ensembles&#34; approach is developing and refining statistical tools and mathematical models that identify the low-dimensional structure in high dimensional data.  --&gt;
+&lt;!-- I recently used this approach to [quantitatively map genomic structure and community metabolic function](#projects) for the process of denitrification, a key part of the global nitrogen cycle. --&gt;
+&lt;!-- I recently used this approach to &lt;a target=&#34;_self&#34; href=&#34;https://karnagowda.github.io/#projects&#34; &gt;quantitatively map genomic structure and community metabolic function&lt;/a&gt; for the process of denitrification, a key part of the global nitrogen cycle. --&gt;
+&lt;!--Life is biochemistry, and microbes are nature&#39;s premier biochemists, impacting all life from microscopic to global scales. A revolution in sequencing and computation has enabled us to observe the *who* (taxonomy) and the *what* (functional genomics) of natural microbial communities as never before. A major task that remains is to turn this wealth of information into predictive insights about how communities organize and operate, quantitatively and dynamically.
+
+In general terms, the questions I am asking are:
+- Given sequence data from a community (*structure*), how do we predict the biochemical fluxes of important metabolites (*function*) in that community?
+- How do we design communities with defined metabolic functions (i.e., specifying function from structure)?
+- How does community genomic structure depend on the biotic and abiotic environment? --&gt;
+&lt;p&gt;I am currently Postdoctoral Scholar in the 
+&lt;a href=&#34;https://ecologyandevolution.uchicago.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Ecology &amp;amp; Evolution&lt;/a&gt; and 
+&lt;a href=&#34;https://news.uchicago.edu/story/eminent-bioengineering-scholar-lead-uchicagos-center-physics-evolving-systems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Physics of Evolving Systems&lt;/a&gt;. I am advised by 
+&lt;a href=&#34;https://www.kuehnlab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seppe Kuehn&lt;/a&gt;. Before beginning as a postdoc, I completed a PhD in Physics with 
+&lt;a href=&#34;http://bioserv.mps.ohio-state.edu/~rbund/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ralf Bundschuh&lt;/a&gt;, where I used statistical physics to build computational models of DNA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATES&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;March 2023: Check out 
+&lt;a href=&#34;https://march.aps.org/sessions/K08/2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my talk&lt;/a&gt; at APS!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theory of Biological Systems virtual seminar series</title>
+      <link>https://kyle-crocker.github.io/biotheory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyle-crocker.github.io/biotheory/</guid>
+      <description>&lt;p&gt;Update: We have concluded the seminar series for the academic year. You can 
+&lt;a href=&#34;https://forms.gle/cJDkJdHwZYn8XeUY7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up here to be informed about future seminars&lt;/a&gt;, and find recordings of this year&amp;rsquo;s talks below!&lt;/p&gt;
+&lt;p&gt;Below you can find recordings for our &amp;lsquo;21-&amp;lsquo;22 Theory of Biological Systems seminars:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nov. 5th - 
+&lt;a href=&#34;https://www.brandeis.edu/physics/people/profiles/kondev-jane.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jane Kondev&lt;/a&gt;, Brandeis University. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=WrnIC-kR2hk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;How cells measure length&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Nov. 19th - 
+&lt;a href=&#34;http://sites.unice.fr/site/aseminara/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agnese Seminara&lt;/a&gt;, University of Genova. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=czFep7kntCo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Olfactory prediction and navigation&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Dec. 3rd - 
+&lt;a href=&#34;https://nemenmanlab.org/~ilya/index.php/Ilya_Nemenman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilya Nemenman&lt;/a&gt;, Emory University. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Uhc_OmTe1ms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Emergent dynamics in high throughut neural data&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Dec. 17th - 
+&lt;a href=&#34;http://shiladitya-banerjee.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiladitya Banerjee&lt;/a&gt;, Carnegie Mellon University. 
+&lt;a href=&#34;https://youtu.be/ke-5oRDX_QI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Morphology, growth and resource optimization in bacterial cells&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jan. 7th - 
+&lt;a href=&#34;https://www.utsouthwestern.edu/labs/lin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milo Lin&lt;/a&gt;, University of Texas Southwestern. 
+&lt;a href=&#34;https://youtu.be/DPNdisKv8yo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;More energy is different&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Jan. 21st @ 10:00 am CT - 
+&lt;a href=&#34;https://www.phys.ens.fr/~awalczak/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aleksandra Walczak&lt;/a&gt;, Ecole Normale Supérieure. 
+&lt;a href=&#34;https://youtu.be/kvqdeazxqmc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Viral-host co-evolution&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Feb. 18th - 
+&lt;a href=&#34;https://palmerlab.uchicago.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stephanie Palmer&lt;/a&gt;, The University of Chicago. 
+&lt;a href=&#34;https://youtu.be/mFj3WGuIcW8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;How behavioral and evolutionary constraints sculpt early visual processing&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Mar. 11th - 
+&lt;a href=&#34;https://web.sas.upenn.edu/katifori/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleni Katifori&lt;/a&gt;, University of Pennsylvania. 
+&lt;a href=&#34;https://youtu.be/1y8l00L3dsA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Optimal trade-offs in biological flow networks&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Apr. 8th @ 9:00 am CT - 
+&lt;a href=&#34;https://www.nitzanlab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mor Nitzan&lt;/a&gt;, The Hebrew University of Jerusalem. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=_blUMciEXlE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Inferring collective spatiotemporal organization in biological systems from single-cell data&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Apr. 15th - 
+&lt;a href=&#34;https://www.peleglab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orit Peleg&lt;/a&gt;, University of Colorado Boulder. 
+&lt;a href=&#34;https://youtu.be/5A3ZZCqTDeI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Physical computation in insect swarms&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Apr. 29th - 
+&lt;a href=&#34;https://biophysics.princeton.edu/people/marianne-bauer-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marianne Bauer&lt;/a&gt;, TU Delft. 
+&lt;a href=&#34;https://youtu.be/jcZ3nZQdpyw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Sensing transcription factors in the fly embryo&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://simfreed.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Freedman&lt;/a&gt;, 
+&lt;a href=&#34;https://www.madhavmani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Madhav Mani&lt;/a&gt;, and I are excited to announce a virtual seminar series entitled Theory of Biological Systems. Our goal in this series is to provide a platform for students and early career scientists to become educated on the latest research topics on the interface of biology, physics, and mathematics, and also to form cohesion between the disparate topics that our community studies.&lt;/p&gt;
+&lt;p&gt;In addition to showcasing cutting edge research, part of the emphasis of our series is to foster a conversation between speakers and the audience about topics of broad concern in the “Theory in Biology” community (e.g., where theorists could have the greatest impact, what are the big unsolved questions, and where may lay some research pitfalls).&lt;/p&gt;
+&lt;!-- We look forward to seeing you in our seminar series! --&gt;
+&lt;p&gt;Anyone interested in related online talks and seminar series&amp;rsquo; should check out the 
+&lt;a href=&#34;https://adras81.bitbucket.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Population Dynamics Seminars&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.youtube.com/c/EmoryTMLS/videos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emory TMLS series&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
