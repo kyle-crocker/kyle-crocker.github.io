@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hermann Riecke | Karna Gowda</title>
+    <link>https://karnagowda.github.io/author/hermann-riecke/</link>
+      <atom:link href="https://karnagowda.github.io/author/hermann-riecke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hermann Riecke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://karnagowda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hermann Riecke</title>
+      <link>https://karnagowda.github.io/author/hermann-riecke/</link>
+    </image>
+    
+    <item>
+      <title>Transitions between patterned states in vegetation models for semiarid ecosystems</title>
+      <link>https://karnagowda.github.io/publication/gowda-transitions-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://karnagowda.github.io/publication/gowda-transitions-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
